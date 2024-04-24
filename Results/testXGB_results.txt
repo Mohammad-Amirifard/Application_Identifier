@@ -1,0 +1,10 @@
+*** XGB ***
+*** Crossvalidation results ***
+Best n_estimators: 50
+Best max_depth: 20
+Best subsample: 0.7
+Best crossvalidation accuracy: 0.9614842470949965
+
+*** Best model results (retrained with entire training set) ***
+Accuracy: 0.9962121212121212
+Training duration [s]: 0.13

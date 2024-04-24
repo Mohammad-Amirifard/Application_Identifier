@@ -1,0 +1,9 @@
+*** LOGISTIC REGRESSION ***
+*** Crossvalidation results ***
+Best C: 1000
+Best number of iterations: 1000
+Best crossvalidation accuracy: 0.7323783093079903
+
+*** Best model results (retrained with entire training set) ***
+Accuracy: 0.726010101010101
+Training duration [s]: 0.085
